@@ -23,7 +23,7 @@
 ### Frontend Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="Frontend Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" alt="Frontend Stack" />
   </a>
 </p>
 
