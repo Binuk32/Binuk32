@@ -18,12 +18,12 @@
 
 ---
 
-## Tech Stack & Tools
+## Stack & Tools
 
 ### Frontend Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" alt="Frontend Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwind,vite" alt="Frontend Stack" />
   </a>
 </p>
 
@@ -66,6 +66,9 @@ Since external image badges can be unstable, here is a clean, permanent showcase
 Feel free to reach out if you want to collaborate on projects or just talk about software engineering!
 
 <p align="left">
+  <a href="https://binuk32.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/binuk-pinsara-2035a334a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
